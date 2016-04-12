@@ -1,0 +1,29 @@
+{
+  "name": "generator-benchmarkjs-runner",
+  "version": "0.0.0",
+  "description": "a yeoman generator for a benchmarking setup",
+  "homepage": "https://github.com/billtrik/generator-benchmarkjs-runner",
+  "author": "Bill Trikalinos",
+  "files": [
+    "generators/app"
+  ],
+  "keywords": [
+    "yeoman-generator",
+    "benchmark.js",
+    "performance",
+    "simple-benchmarkjs-runner"
+  ],
+  "scripts": {
+    "prepublish": "gulp prepublish",
+    "test": "gulp"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "yeoman-generator": "^0.22.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-nsp": "^2.1.0"
+  },
+  "repository": "billtrik/generator-benchmarkjs-runner"
+}
