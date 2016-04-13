@@ -1,6 +1,6 @@
 {
   "name": "generator-benchmarkjs-runner",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "a yeoman generator for a benchmarking setup",
   "homepage": "https://github.com/billtrik/generator-benchmarkjs-runner",
   "author": "Bill Trikalinos",
