@@ -6,6 +6,7 @@ module.exports = generators.Base.extend({
     this.template('_babelrc', '.babelrc');
     this.template('package.json', 'package.json');
     this.template('index.js', 'index.js');
+    this.template('gulpfile.js', 'gulpfile.js');
     this.template('implementations', 'implementations');
   },
 
